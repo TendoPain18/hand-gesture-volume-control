@@ -13,7 +13,7 @@ A Python application that uses real-time hand tracking to control system volume 
 <br>
 <br>
 
-<img src="images/thumbnail.png" alt="Gesture Volume Control" width="800"/>
+<img src="images/thumbnail.jpg" alt="Gesture Volume Control" width="800"/>
 
 </div>
 
